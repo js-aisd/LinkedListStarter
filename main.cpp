@@ -6,6 +6,17 @@
 //  Copyright © 2016 James Shockey. All rights reserved.
 //
 
+
+/*
+ *
+ *	Linked List lab.
+ *	- Build a library for singly linked list.
+ *	- Replace the airport array in main with a Linked List.
+ *  - sort the array. 
+ *	
+ */
+
+
 #include <iostream>
 #include <fstream>
 #include <cmath> 
