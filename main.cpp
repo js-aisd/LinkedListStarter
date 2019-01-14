@@ -32,7 +32,7 @@ int main()
     ifstream infile;
     int i=0;
     char cNum[10] ;
-    Airport* airportArr[13500];
+    Airport* airportArr[13500];			// Replace array with Linked List
     int   airportCount;
     //Airport* a[13500];
     
@@ -86,10 +86,6 @@ int main()
  
 
 
-   // Initialize Linked List
-   
-   // 
-
     
 }
 
@@ -130,7 +126,9 @@ double distanceEarth(double lat1d, double lon1d, double lat2d, double lon2d) {
 }
 
 
-
+/*
+	Provide sort routine on linked list
+*/
 /*
 void simpleSortTotal()
 {
