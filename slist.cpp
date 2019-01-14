@@ -23,6 +23,8 @@ Class Library File
 
 //exchg(index1, index2)		//Switches the payload data of specified indexex.
 
+//swap(index1,index2)		//Swaps node located at index1 with node at index2
+
 // isEmpty()				//Returns true if this list contains no elements.
 
 // remove(index)			//Removes the element at the specified index from this list.
